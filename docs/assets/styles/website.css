@@ -1,0 +1,19 @@
+.gitbook-cms-footer {height: 74px;
+    line-height: 74px;
+    border-top: 1px solid #edeff2;
+    margin: 0 24px;
+}
+.gitbook-cms-footer a {
+    text-decoration: none;
+}
+.gitbook-cms-footer a, .jda-footer span {
+    font-size: 14px;
+    color: #C5CACF;
+    margin-right: 30px;
+}
+
+/* 重写anchor右侧导航部分样式 */
+.book-anchor {
+    background: #fff;
+    top: 80px;
+}
