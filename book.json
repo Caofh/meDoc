@@ -61,7 +61,7 @@
             "elements": [".pull-right"]
         },
         "edit-link-plus": {
-            "base": "https://github.com/Caofh/gitbook-project/blob/master",
+            "base": "https://github.com/Caofh/meDoc/blob/master",
             "label": "编辑当前页"
         }
     }
